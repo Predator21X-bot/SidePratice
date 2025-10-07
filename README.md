@@ -1,2 +1,2 @@
 # SidePratice
-For Practice
+Practice
